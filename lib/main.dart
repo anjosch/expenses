@@ -24,7 +24,7 @@ class MyHomePage extends StatelessWidget {
         children: <Widget>[
           Container(
             child: Card(
-              color: Colors.blue,
+              color: Colors.green,
               child: Text('Gráfico'),
               elevation: 5,
             ),
